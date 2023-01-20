@@ -1,6 +1,5 @@
 ### :camel: HTML examples
 ---
-* __*this workshop needs ncodeit custom ubuntu server*__
 
 #### Task1: Basic html tags 
 ```
