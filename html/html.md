@@ -24,7 +24,6 @@
 
 ```
 #### Task2: Anchor tag
-* docker can search and pull images from dockerhub 
 ```
 <!DOCTYPE html>
 <html>
