@@ -194,7 +194,7 @@ document.write(emp.id+" "+emp.name+" "+emp.salary);
 </html>
 ```
 
-#### Task9: Object
+#### Task10: Object
 ```
 <html>
 <body>
@@ -206,7 +206,7 @@ document.write(emp.id+" "+emp.name+" "+emp.salary);
 </html>
 ```
 
-#### Task10: Array
+#### Task11: Array
 ```
 <html>
 <body>
